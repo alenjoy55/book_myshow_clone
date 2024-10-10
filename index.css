@@ -1,10 +1,15 @@
 #logo{
     padding: 5px;
 }
-
-#posters{
-    width: 100%;
+.dropdowm{
+    padding: 8px;
 }
-#stream{
-    
+#posters{
+    width: 90%;
+    border-radius: 8px;
+}
+.stream{
+    width: 100%;
+    border-radius: 4px;
+    padding: 100px;
 }
